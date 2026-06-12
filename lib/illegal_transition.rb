@@ -1,0 +1,1 @@
+class IllegalTransition < StandardError; end
