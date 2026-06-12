@@ -1,1 +1,0 @@
-class InsufficientStock < StandardError; end
